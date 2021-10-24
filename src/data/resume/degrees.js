@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Veer Surendra Sai University of Technology',
+    degree: 'B.Tech, Electrical Engineering',
+    link: 'https://www.vssut.ac.in/',
+    year: 2022,
   },
   {
-    school: 'University at Buffalo',
+    school: 'Delhi Public School, Rourkela',
     degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    link: 'https://www.dpsrkl.in/',
+    year: 2017,
   },
 ];
 
