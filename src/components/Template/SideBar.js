@@ -20,7 +20,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Sounmay. I like building things.
-        I am a <a href="https://www.vssut.ac.in/department.php?url=electrical-engineering">Electrical Engineering</a> undergraduate from VSSUT, Burla, with a keen interest in Computer Science technologies. I work with Full Stack Development, Hybrid App Development using Flutter, and Machine Learning.
+        I am an <a href="https://www.vssut.ac.in/department.php?url=electrical-engineering">Electrical Engineering</a> undergraduate from VSSUT, Burla, with a keen interest in Computer Science technologies. I work with Full Stack Development, Hybrid App Development using Flutter, and Machine Learning.
       </p>
       <ul className="actions">
         <li>

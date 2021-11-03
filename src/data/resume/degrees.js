@@ -7,7 +7,7 @@ const degrees = [
   },
   {
     school: 'Delhi Public School, Rourkela',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
+    degree: 'High School Diploma',
     link: 'https://www.dpsrkl.in/',
     year: 2017,
   },
